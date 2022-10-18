@@ -2,20 +2,20 @@
   "name": "Filmoteka_by_ITLegend",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Musiyan98.github.io/filmoteka_by_ITLegend",
+  "homepage": "https://kobaserg.github.io/filmoteka_by_IT_LEGEND_command_project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka_by_ITLegend/"
+    "build": "parcel build src/*.html --public-url /filmoteka_by_IT_LEGEND_command_project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Musiyan98/filmoteka_by_ITLegend.git"
+    "url": "git+https://github.com/kobaserg/filmoteka_by_IT_LEGEND_command_project.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Serhiy Koba <kobasts@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Musiyan98/filmoteka_by_ITLegend/issues"
+    "url": "https://github.com/kobaserg/filmoteka_by_IT_LEGEND_command_project/issues"
   },
   "dependencies": {
     "basiclightbox": "^5.0.4",
